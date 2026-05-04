@@ -49,7 +49,7 @@ public class UtilityBelt
 		boolean isNotValid;
 		
 		isNotValid = true; // initialize all variables, Compiler will complain because they are initialized in try/catch
-		result = 0;
+		result = 0; 
 		
 		do
 		{
